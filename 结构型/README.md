@@ -1,8 +1,10 @@
 # 结构型模式
 
     通常用来处理实体之间的关系，使得这些实体能够更好地协同工作。
+    关注类和对象的组合
     
 分为：
+
 6. [适配器(Adapter)](Adapter/README.md)
 7. [桥接(Bridge)](Bridge)
 8. [组合(Composite)](Composite)
