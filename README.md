@@ -49,3 +49,12 @@ LSP是继承复用的基石，只有当衍生类可以替换掉基类，软件�
     Python中使用ABCMeta、abstractmethod的抽象类、抽象方法来实现接口的功能。
     接口类定义方法，不具体实现，限制子类必须有该方法。
     在接口子类中实现具体的功能。
+
+# 三.设计模式三大类
+
+    设计模式的参考书 Design Patterns - Elements of Reusable Object-Oriented Software（中文译名：设计模式 - 可复用的面向对象软件元素）中所提到的，总共有 23 种设计模式。
+    
+这些模式可以分为三大类：
+1. [创建型模式（Creational Patterns）](创建型)    (这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式)
+2. [结构型模式（Structural Patterns）](结构型)    (这些设计模式关注类和对象的组合)
+3. [行为型模式（Behavioral Patterns）](行为型)    (这些设计模式特别关注对象之间的通信)
