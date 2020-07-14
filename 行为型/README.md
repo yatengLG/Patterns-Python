@@ -4,6 +4,7 @@
     特别关注对象之间的通信
     
 分为：
+
 13. [解释器(Interpreter)](Interpreter)
 14. [模板方法(Template Method)](Template_Method)
 15. [责任链(Chain of Responsibility)](Chain_of_Responsibility)
